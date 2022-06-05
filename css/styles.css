@@ -1,0 +1,212 @@
+:root{
+    --header-color:#2196F3;
+    --link-color: #212121;
+    --body-text: 'Roboto';
+    --body-color:#212121;
+}
+/*logo-font-header*/
+.logo-font-header{
+    
+}
+.body{
+       background-color: #e5e5e5;
+}
+.logo{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+       color: #2196F3;
+}
+.black-nega{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        color: #ffffff;
+}
+.black-nega-two{
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        color: #212121;
+}
+.link{
+    text-decoration: none;
+}
+.ul{
+    list-style-type: none;
+}
+.logo-studio{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #212121;
+}
+.logo-studio:hover,
+.logo-studio:focus{
+    color: #2196F3;
+}
+.logo-portfolio{
+        font-size: 14px;
+        line-height: 1.14;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        color: #2196F3;
+}
+.logo-kontact{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.14;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.sort-btn-text{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    text-align: center;
+    color: #ffffff;
+}
+.sort-btn-text-two{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    text-align: center;
+    color: #212121;
+}
+.address{
+    font-family:'Roboto' ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+}
+.k-foto{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.k-foto-two{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.naha-comanda{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+}
+.naha-comanda-one{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.p-one{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.naha-comanda-two{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-align: center;
+}
+.naha-comanda-three{
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.naha-comanda-four{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.18;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+.visually-hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
+}
+.section{
+    background-color: #2f303a;
+}
+.zakazat-yslygu{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 00.06em;
+    color: #ffffff;
+}
+.naha-comanda-five{
+    background-color: #f5f4fa;
+}
+.naha-comanda-six{
+    background-color: #e5e5e5;
+}
