@@ -186,6 +186,14 @@ h1,h2,h3,h4,h5,ul,li,p{
     text-align: center;
     color: #212121;
     cursor: pointer;
+    margin-left: 22px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding-left: 10px;
+
+}
+.knopki-two{
+    padding-left: 8px;
 }
 .sort-btn-text-two:hover,
 .sort-btn-text-two:focus{
@@ -401,4 +409,5 @@ h1,h2,h3,h4,h5,ul,li,p{
 }
 .email-footer {
     margin-top: 9px;
+    padding-left: 150px;
 }
